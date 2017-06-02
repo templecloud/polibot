@@ -36,7 +36,7 @@ Allows: UDP traffic for ports: 8472
 ```
 
 Note: This opens UDP traffic on port 8472, thus allowing the encapsulated
-fannel traffic between nodes in the cluster. 
+flannel traffic between nodes in the cluster. 
 
 ### To Install Kubernetes (On masters and slaves)
 
